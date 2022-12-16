@@ -1,2 +1,3 @@
-# EmojiSearchReactJS
-Created with CodeSandbox
+## Emoji Search React App
+
+![](image.jpg)
